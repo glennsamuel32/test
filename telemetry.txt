@@ -47,5 +47,5 @@
 0.0.0.0 www.bing.com
 0.0.0.0 cxcs.microsoft.net
 0.0.0.0 fs.microsoft.com
-0.0.0.0 msftconnecttest.com
+0.0.0.0 www.msftconnecttest.com
 0.0.0.0 time.windows.com
