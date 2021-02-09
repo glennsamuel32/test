@@ -49,3 +49,4 @@
 0.0.0.0 fs.microsoft.com
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 time.windows.com
+0.0.0.0 wdcp.microsoft.com
