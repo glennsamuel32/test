@@ -53,3 +53,4 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 services.gfe.nvidia.com
 0.0.0.0 telemetry.sdk.inmobi.col
+0.0.0.0 diagmon-policy.samsungdm.com
