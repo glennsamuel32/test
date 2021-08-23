@@ -1,0 +1,17 @@
+0.0.0.0 armmf.adobe.com
+0.0.0.0 acroipm.adobe.com
+0.0.0.0 acroipm2.adobe.com
+0.0.0.0 server.messaging.adobe.com
+0.0.0.0 client.messaging.adobe.com
+0.0.0.0 adobe.demdex.net
+0.0.0.0 p13n-mr.adobe.io
+0.0.0.0 geo.adobe.com
+0.0.0.0 adobe.tt.omtrdc.net
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 p13n.adobe.io
+0.0.0.0 sstats.adobe.com
+0.0.0.0 ims-na1.adobelogin.com
+0.0.0.0 geo2.adobe.com
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 static.adobelogin.com
