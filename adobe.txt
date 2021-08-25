@@ -16,3 +16,4 @@
 0.0.0.0 adobeid-na1.services.adobe.com
 0.0.0.0 static.adobelogin.com
 0.0.0.0 p13n-mr.adobe.io
+0.0.0.0 uds.licenses.adobe.com
